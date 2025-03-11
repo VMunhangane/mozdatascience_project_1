@@ -1,11 +1,7 @@
 dash==2.16.1
 dash_bootstrap_components==1.4.2
-dash_core_components==2.0.0
 dash_extensions==1.0.20
-dash_html_components==2.0.0
 pandas==2.0.3
 plotly==5.16.1
-requests==2.31.0
-tqdm==4.65.0
 gunicorn
 dash-tools
