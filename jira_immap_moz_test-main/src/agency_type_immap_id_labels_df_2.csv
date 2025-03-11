@@ -1,0 +1,7 @@
+,id,label,other
+0,1,Academia,False
+1,5,Government Agency,False
+2,2,INGO,False
+3,3,NNGO,False
+4,4,UN Agency,False
+5,0,Other...,True

@@ -1,0 +1,14 @@
+/* The blue range slider */
+.sliderRed {
+  background-color: white;
+  
+}
+
+.sliderRed .rc-slider-track {
+  background-color: rgb(190, 33, 38);
+}
+
+.sliderRed .rc-slider-handle {
+  border-color: rgb(190, 33, 38);
+}
+
